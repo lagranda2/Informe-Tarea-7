@@ -12,7 +12,7 @@ Conocer y comprender los conceptos sobre inductores y transformadores
 
 •	Analizar las características de transformadores
 
-#MARCO TEORICO
+# MARCO TEORICO
 
 - CapiTulo 13
 
